@@ -10,6 +10,8 @@ check and uncheck todos.
 ### Login
 
 This service is initialized with two users, which can be used for immediate testing:
+None@lol.com password 123456
+Lol@Lol.com password 123456
 
 ### Register
 

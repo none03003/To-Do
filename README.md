@@ -1,5 +1,4 @@
 # ToDo Application with React JS
-![My Image](/public/images/todos-min.png)
 
 ## Project Description
 
@@ -9,26 +8,19 @@ check and uncheck todos.
 ## Services
 
 ### Login
-![My Image](/public/images/login-min.png)
 
 This service is initialized with two users, which can be used for immediate testing:
 
-- borko@abv.bg: 123456
-- gabi@abv.bg: 123456
-
 ### Register
-![My Image](/public/images/register-min.png)
 
 Create a new user by entered email, password and confirmation password.
 
 ### Create
-![My Image](/public/images/todos-min.png)
 
 When user enter his task and click on Add New Task button, users todo will show
 on the top of ToDo list constainer.
 
 ### Edit
-![My Image](/public/images/edit-min.png)
 
 When user click on edit icon on given todo he have possibility to edit this todo.
 After click on Edit Task button todo will be edited.

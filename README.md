@@ -46,4 +46,4 @@ Guest users can see only login and register pages.
 
 ## Live Demo
 
-https://none.github.io/todo-list-app
+https://borislavbenderov.github.io/todo-list-app
